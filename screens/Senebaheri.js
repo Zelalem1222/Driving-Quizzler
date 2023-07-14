@@ -59,8 +59,8 @@ export default function SeneBaheri({ navigation }) {
       <Subtitle>1.3 የስነ-ባህሪ ግቦች :-</Subtitle>
       <Paragraph>
       - የስነ-ባህሪ ግቦች የሚባሉት ባህሪን መግለፅ፣ የተለያዩ ባህሪያትን ምክንያት ማብራራት፣ወቅታዊ
-        የባህሪን ሁኔታ ግምት ዉስጥ በማስገባት የወደፊቱን መተንበይና ባህሪን ማሻሻል የሚሉት
-        ናቸው፡፡
+         የባህሪን ሁኔታ ግምት ዉስጥ በማስገባት የወደፊቱን መተንበይና ባህሪን ማሻሻል የሚሉት
+         ናቸው፡፡
       </Paragraph>
       <Subtitle>1.4 የማሽከርከር ስነ -ባህሪ :-</Subtitle>
       <Paragraph>
