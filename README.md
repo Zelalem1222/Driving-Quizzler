@@ -38,7 +38,7 @@ npm install
 npm start
 ```
 
-## Authors
+## Author
 
 
 👤 **Zelalem Fissha**
