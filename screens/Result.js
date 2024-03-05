@@ -5,8 +5,8 @@ import Title from '../components/title'
 
 export default function Result({navigation , route}) {
    const {score} = route.params
-    const resultImage = score >= 74 ? require("../asset/istockphoto-1136599028-612x612.jpg") : 
-    require("../asset/failed-icon-6.jpg");
+    const resultImage = score >= 74 ? require("../asset/istockphoto-1136599028-612x612.png") : 
+    require("../asset/failed-icon-6.png");
     return (
       <View style={styles.container}>
       <Title titleText='ውጤት'/>
